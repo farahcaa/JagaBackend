@@ -1,0 +1,14 @@
+services:
+  backend:
+    image: jagabackend
+    ports:
+      - "3000:5000"
+
+configs:
+  httpd-config:
+    external: true
+
+networks:
+  # The presence of these objects is sufficient to define them
+  front-tier: {}
+  back-tier: {}
