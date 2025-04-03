@@ -1,0 +1,31 @@
+{
+  "title": "Obey Running wild",
+  "drop": "love",
+  "inventory": {
+    "blue": {
+      "xl": 50,
+      "lg": 50,
+      "md": 50,
+      "sm": 50
+    },
+    "cream": {
+      "xl": 50,
+      "lg": 50,
+      "md": 50,
+      "sm": 50
+    }
+  },
+  "details": ["very cool fabric", "awesome texture", "very cool stuff"],
+  "price": 50,
+  "reviews": [
+    "very cool shirt i loved it!",
+    "it was so cool",
+    "the packageing was awesome!!!"
+  ],
+  "imageUrl": [
+    "/tees/Obey_Tee.png",
+    "/tees/Obey_Tee.png",
+    "/tees/Obey_Tee.png",
+    "/tees/Obey_Tee.png"
+  ]
+}
